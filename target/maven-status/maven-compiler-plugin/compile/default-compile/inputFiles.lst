@@ -1,1 +1,3 @@
-/opt/workspace2/org.soulcoder.springboot/src/main/java/org/soulcoder/springboot/action/SampleController.java
+/opt/workspace/springboot/src/main/java/org/soulcoder/springboot/action/MyCommandLineRunner.java
+/opt/workspace/springboot/src/main/java/org/soulcoder/springboot/model/User.java
+/opt/workspace/springboot/src/main/java/org/soulcoder/springboot/action/SampleController.java
